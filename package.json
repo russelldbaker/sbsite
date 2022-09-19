@@ -1,5 +1,6 @@
 {
   "name": "sbsite",
+  "homepage": "http://southernbeacon.co",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
